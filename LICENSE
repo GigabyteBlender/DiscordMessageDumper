@@ -1,25 +1,25 @@
-[DiscordMessageDumper] License
+MIT License with Attribution Requirement
 
-Copyright (c) [2025] [Daniel Pertu]
+Copyright (c) 2025 Daniel Pertu
 
-All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Permission Notice:
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
 
-1. You are allowed to view, download, and use this project for personal and non-commercial purposes.
+2. If you modify and share this Software or any derivative works, you must:
+   a. Give credit to the original author (GigabyteBlender), AND
+   b. Include a link to the original project repository or author's profile.
 
-2. You must obtain written permission from the copyright holder, whether it be by email or another form from me, before:
-   a. Distributing this project or any part of it.
-   b. Uploading this project or any part to any platform or service.
-   c. Using this project or any part of it for commercial purposes.
-
-3. Any modification, adaptation, or derivative work based on this project is allowed but subject to the same permission requirements stated in point 2.
-
-4. This license and copyright notice must be included in all copies or substantial portions of the project.
-
-For permission requests, please contact: [pertu.works@gmail.com]
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

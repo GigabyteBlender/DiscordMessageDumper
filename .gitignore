@@ -1,6 +1,6 @@
 *.tmp
-config.py
-config.cpython-313.pyc
 data.txt
 __pycache__
 .DS_Store
+/logs
+.env
